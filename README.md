@@ -4,7 +4,10 @@ The Graven Dev project, but coded by me for training purpose.
 
 All features : https://miro.com/app/board/uXjVMN85tNE=/ (I will not all do them)
 
-Stack : laravel + svelte
+Stack : 
+- laravel
+- svelte
+- tailwind
 
 Features that I choose :
 - content creation (authors = users)
